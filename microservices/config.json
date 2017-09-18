@@ -3,7 +3,7 @@
         "database": "db_sca",
         "user": "root",
         "password": "AWS#Sca4dm1n",
-        "host": "localhost",
+        "host": "dbp-01.cgiphews5qq8.us-east-2.rds.amazonaws.com",
         "port": 3306,
         "dialect": "mysql"
     }
